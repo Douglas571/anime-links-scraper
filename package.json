@@ -1,0 +1,16 @@
+{
+  "name": "anime-link-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "example": "node index.js 1 24 -db -hl",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Socorro",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^19.7.2"
+  }
+}
